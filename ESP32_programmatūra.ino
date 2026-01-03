@@ -1,3 +1,14 @@
+/*
+Piezoelektriskā lietus sensora programmatūra
+ZPD autors: Eduards Dāvis Ziemelis, 2026
+Jelgavas Valsts ģimnāzija
+
+Šis kods tika pilnībā ģenerēts ar mākslīgā intelekta rīku Claude Sonnet 4.5 
+(Anthropic), pamatojoties uz darba autora detalizētiem tehniskajiem 
+aprakstiem par aparatūras konfigurāciju, datu apstrādes prasībām un 
+vēlamajām funkcijām.
+*/
+
 // ESP32-C3 Optimized Surface Microphone - Maximum Accuracy & Speed
 // Compatible with ESP32 Arduino Core 2.x and 3.x
 
