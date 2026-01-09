@@ -9,7 +9,7 @@ aprakstiem par aparatūras konfigurāciju, datu apstrādes prasībām un
 vēlamajām funkcijām.
 */
 
-// ESP32-C3 Optimized Surface Microphone - Maximum Accuracy & Speed
+// ESP32-C3 
 // Compatible with ESP32 Arduino Core 2.x and 3.x
 
 #define MIC_PIN 0                // GPIO0 (ADC0)
